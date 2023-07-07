@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tokyo town</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel="stylesheet" href="./style.css">
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta name="generator" content="Geany 1.37.1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.1.3/webcomponents-loader.js"></script> 
+  
+</head>
+<body>
+  <section class="et-hero-tabs">
+    
+    
+    <div class="container">
+      <a class="link" href="#">Weeb Town </a>
+      <span class="hover-container">
+        <span class="link-text" aria-hidden="true">Weeb Town</span>
+        <span class="image-container">
+          <span class="image-inner">
+            <img class="link-image" src="tokyo-tower.jpg" alt="Tokyo Tower" />
+          </span>
+        </span>
+      </span>
+    </div>
+    
+    
+      <model-viewer src=".//fire_in_the_sky/scene.gltf" class="model_a" alt="A 3D model" shadow-intensity="1" camera-controls auto-rotate ar>
+      </model-viewer>
+      
+ 
+    <div class="et-hero-tabs-container">
+      <a class="et-hero-tab" href="#tab-es6">About us</a>
+      <a class="et-hero-tab" href="#tab-flexbox">Anime</a>
+      <a class="et-hero-tab" href="#tab-react">Traditional</a>
+      <a class="et-hero-tab" href="#tab-angular">Video Games</a>
+      <a class="et-hero-tab" href=".container">Home</a>
+      <span class="et-hero-tab-slider"></span>
+    </div>
+  </section>
+
+  <main class="et-main">
+    <section class="et-slide" id="tab-es6">
+      <h1>Konnichiwa!!</h1>
+      <h3>Welcome to Weeb Town, where we immerse you in the captivating world of anime, video games,
+        <br> and authentic Japanese treasures. Unleash your passion and indulge 
+        <br>in our handpicked collection of cultural delights.</h3>
+      <model-viewer src=".//japanese_restaurant_inakaya/scene.gltf" class="model_b" alt="A 3D model" shadow-intensity="1" camera-controls auto-rotate ar>
+      </model-viewer>
+    </section>
+
+
+
+    <section class="et-slide" id="tab-flexbox">
+      <h1>Anime merchandise</h1>
+      <h3>something about anime merch</h3>
+      <div class="float-container">
+
+        <div class="float-child">
+          <div class="green">
+            <model-viewer src=".//reg_-_made_in_abyss_highpoly/scene.gltf" class="model_e" alt="A 3D model" shadow-intensity="1" camera-controls auto-rotate ar>
+            </model-viewer>
+          </div>
+        </div>
+        
+        <div class="float-child">
+          <div class="blue">
+            <model-viewer src=".//chainsaw_man/scene.gltf"  class="model_f"alt="A 3D model" shadow-intensity="1" camera-controls auto-rotate ar>
+            </model-viewer>
+          </div>
+        </div>
+        
+      </div>
+           
+      
+    </section>
+    <section class="et-slide" id="tab-react">
+      <h1>Japan</h1>
+      <h3>something about regional goods</h3>
+      <model-viewer src=".//japanese_lowpoly_temple/scene.gltf" class="model_a" alt="A 3D model" shadow-intensity="1" camera-controls auto-rotate ar>
+      </model-viewer>
+    </section>
+
+    <section class="et-slide" id="tab-angular">
+      <h1>Video Games</h1>
+      <h3>something about vintage video games</h3>
+      <model-viewer src=".//smol_ame_in_an_upcycled_terrarium_hololiveen/scene.gltf" class="model_c" alt="A 3D model" shadow-intensity="1" camera-controls auto-rotate ar>
+      </model-viewer>
+    </section>
+   
+  </main>
+
+ 
+
+<!-- partial -->
+<script type="module"
+		  src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
+	  </script>
+
+	<!-- Loads <model-viewer> for old browsers like IE11: -->
+	<script nomodule
+      src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
+	</script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>

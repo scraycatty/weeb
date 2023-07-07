@@ -1,0 +1,11 @@
+Model Information:
+* title:	Reg - Made in Abyss (HighPoly)
+* source:	https://sketchfab.com/3d-models/reg-made-in-abyss-highpoly-5b2a8b61c7ab414f97100977fe97f569
+* author:	Lerkel (https://sketchfab.com/AnDrOiDZX)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Reg - Made in Abyss (HighPoly)" (https://sketchfab.com/3d-models/reg-made-in-abyss-highpoly-5b2a8b61c7ab414f97100977fe97f569) by Lerkel (https://sketchfab.com/AnDrOiDZX) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

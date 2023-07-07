@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chainsaw Man
+* source:	https://sketchfab.com/3d-models/chainsaw-man-374827532dfa4a73aab9f5e15fd8ab8c
+* author:	korbenhall (https://sketchfab.com/korbenhall)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chainsaw Man" (https://sketchfab.com/3d-models/chainsaw-man-374827532dfa4a73aab9f5e15fd8ab8c) by korbenhall (https://sketchfab.com/korbenhall) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
